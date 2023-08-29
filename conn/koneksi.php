@@ -1,1 +1,1 @@
-<?php $koneksi=mysqli_connect("localhost","root","","aplikasipengduan"); ?>
+<?php $koneksi=mysqli_connect("localhost","root","","aplikasipengaduan"); ?>
