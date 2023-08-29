@@ -89,7 +89,7 @@
         <!-- Greetings -->
         <div class="home-greets">
           <h1 class="dark-mode-text my-1 block text-4xl font-bold text-dark lg:text-[40px]">Pengaduan jamaah </h1>
-          <h3 class="dark-mode-text mb-5 text-base font-semibold text-secondary md:text-lg">(WBS)
+          <h3 class="dark-mode-text mb-5 text-base font-semibold text-secondary md:text-lg">(MIJ)
           </h3>
           <p class="dark-mode-text mb-10 text-base leading-relaxed text-secondary md:text-base">
             <span class="font-bold md:text-xl">"</span>Yuk.... kenali apa itu Pengaduan dan bagaimana cara melakukan pengaduan, pilih aja menu yang tersedia<span
