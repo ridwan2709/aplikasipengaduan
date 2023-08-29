@@ -88,7 +88,7 @@
       <div class="flex flex-wrap">
         <!-- Greetings -->
         <div class="home-greets">
-          <h1 class="dark-mode-text my-1 block text-4xl font-bold text-dark lg:text-[40px]">Whistleblowing System</h1>
+          <h1 class="dark-mode-text my-1 block text-4xl font-bold text-dark lg:text-[40px]">Pengaduan jamaah </h1>
           <h3 class="dark-mode-text mb-5 text-base font-semibold text-secondary md:text-lg">(WBS)
           </h3>
           <p class="dark-mode-text mb-10 text-base leading-relaxed text-secondary md:text-base">
