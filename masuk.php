@@ -19,6 +19,7 @@
                 echo "<script>alert('Silahkan verifikasi akun anda terlebih dahulu!')</script>";
                 echo "<script>location='telat.php'</script>";
             }
+
             elseif($data['verif'] == 1){
                 session_start();
                 $_SESSION['username']=$username;
@@ -65,10 +66,10 @@
     <div class="box">
         <div class="form">
             <form action="#" method="POST">
-                <h2>Silahkan Masuk</h2>
+                <h2>Hayu asupk</h2>
                     <div class="inputBox">
                         <input type="text" id="email_address" name="email" required="required" autocomplete="off">
-                        <span>Alamat Email / Nama Pengguna</span>
+                        <span>Alamat Sendiri / Nama Pengguna</span>
                         <i></i>
                     </div>
                     <div class="inputBox">
